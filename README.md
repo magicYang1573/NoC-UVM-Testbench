@@ -4,7 +4,7 @@
 
 This repository includes a UVM testbench for the NoC component in OpenPiton. [OpenPiton GitHub Repository](https://github.com/PrincetonUniversity/openpiton)
 
-This is the UVM testbench used in our paper. If this testbench is helpful for your research, you can cite the following papers:
+This is the UVM testbench used in our paper NoCFuzzer. It provides a detailed introduction to the NoC UVM testbench and introduce the development of the fuzzing framework based on this UVM testbench. If this testbench is helpful for your research, you can cite the following papers:
 
 - [NoCFuzzer: Automating NoC Verification in UVM](https://ieeexplore.ieee.org/abstract/document/10601229/)
 
